@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/97.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Um beste Erfolge zu erzielen.
+ Bei der Inklusion ist es
+ ein bisschen wie beim Abitur.
+ Man muss es wollen.
+    Und dann schafft man's.
+ Bei uns ist <Node id="149"/>Wilfried W. Steinert<Node id="169"/>,
+ Bildungsexperte und Sprecher des
+Expertenkreises "Inklusive Bildung"
+ der <Node id="246"/>Deutschen UNESCO-Kommission<Node id="273"/>.
+ Guten Abend.
+           Guten Abend.
+ Gibt es nicht
+ein populäreres Wort für Inklusion?
+ Der Begriff hat sich
+    inzwischen eingebürgert.
+ Es muss im Bewusstsein klar
+ werden, dass alle die gleichen
+     Chancen haben sollen.
+ So einfach ist das.
+ Was umfasst das denn?
+ Wer entscheidet, welcher Schüler auf                                
+     welche Schule gehen darf?
+ Gibt es Kriterien?
+ Jedes Kind soll auf die Schule
+   gehen, auf die alle gehen.
+ D.h., wir müssen
+ die Schuleingangs-Untersuchung
+        etwas umstellen.
+ D.h., man muss gucken, was
+    an den Schulen verändert
+ werden muss, damit die Kinder gut
+         lernen können.
+ Wir kennen die Kinder herrschen
+     aus dem Kindergarten.
+ Und bei dem Beispiel eben
+    mit der Hörgeschädigten
+ lässt es sich sehr gut organisieren,
+ dass es in den Schulen
+  schallgedämmter Räume gibt.
+ Droht nicht die Gefahr,
+   dass es am Geld scheitert?
+ Wir haben in diesem Doppelsystem
+ von Regelschulen und
+fördert Schulen ungeheuer viel Geld.
+ Es wird nicht darüber diskutiert,
+wenn eine Vorderschule Millionen
+ für einen Neubau braucht.
+ Aber wenn wir einen Einzelfallhelfer                                
+    in der Regelschule brauchen,
+ dann heißt es plötzlich,
+  Inklusion ist viel zu teuer.
+ Ein anderes Beispiel:
+ wenn wir Schüler in <Node id="1575"/>Brandenburg<Node id="1586"/> zu
+   einer Vorderschule bringen,
+ kostet das 13.000 <Node id="1640"/>Euro<Node id="1644"/> im Jahr.
+ Man dieses Geld anderen Schulen
+           vor Ort,
+ können viele Kinder Inklusiv
+      unterrichtet werden.
+ Es gibt der bundesweit totale Lücken                                
+         bei Förderlehrern.
+ Ja, das wissen wir aber seit Jahren.
+ Kinder mit Behinderungen brauchen
+     immer Förderpädagogen.
+ Das ist unabhängig vom Schultyp.
+ Wir müssen erst einmal das
+     in die Köpfe bekommen,
+ dass behinderte Kinder
+  an die Regelschule gehören.
+ Wenn wir das in die Köpfe bekommen,
+übt es auch Wege, das zu schaffen.
+ Wir müssen als 1.
+ Im Kopf klar haben,
+dass es selbstverständlich ist,
+ <Node id="2252"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2252">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="5" Type="Mention" StartNode="149" EndNode="169">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="246" EndNode="273">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Deutsche_UNESCO-Kommission</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="1640" EndNode="1644">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Euro</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Mention" StartNode="1575" EndNode="1586">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="1" Type="Mention" StartNode="149" EndNode="169">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Mention" StartNode="246" EndNode="273">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Deutsche_UNESCO-Kommission</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="1575" EndNode="1586">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="1640" EndNode="1644">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Euro</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

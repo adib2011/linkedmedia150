@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/69.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Weil <Node id="5"/>Andreas Gotfrid<Node id="20"/> sich
+in seinem neuen Job so wohl fühlt,
+ hat er ein kleines Ritual
+          entwickelt.
+ Einmal die Woche hängt er an der
+Pinnwand einen neuen Komik auf,
+ um seine Kollegen
+     zum Lachen zu bringen.
+ Wer es irgendwie hinkriegt, der
+genießt den Sommerabend im Freien.
+ In der Datsche, auf dem Balkon
+   oder direkt an der <Node id="345"/>Spree<Node id="350"/>.
+ Denn hier gibt es jede Menge
+      schöner Strandbars.
+ Ein Geheimtipp ist immer noch
+   die <Node id="446"/>Rummelsburger Bucht<Node id="465"/>.
+ Und dort genießt <Node id="485"/>Arndt Breitfeld<Node id="500"/>
+ seinen Arbeits-Abend für uns.
+ <Node id="533"/>Arndt<Node id="538"/>, Montag abend -
+    ist trotzdem etwas los?
+ Es ist total viel los hier.
+ Zumindest in dieser Halle.
+ Fährt den Namen Ostbloc.
+ Man kann in eine Höhe
+        bis 2 oder 3 m.
+ wie oft kommt ihr hierher?
+ Wir sind 2 oder dreimal die
+          Woche hier.
+ Wir machen das, um zu entspannen.
+ Ich war heute nur in der Uni und
+      bin direkt hierher.
+ Viel Erfolg.
+ Ich zeige Ihnen noch das Umfeld.
+ Dahinten sieht man die Hafenküche.
+ Das ist eine kleine Hafenanlage.
+ Hier gehört die Küche dazu.
+ Da kann man nett zusammensitzen.
+ Zum Beispiel diese holländische
+         Segelgruppe.
+ Bei mir ist der Restaurantleiter.
+ Jetzt hat die Saison angefangen.
+ Es kommen immer mehr Gäste.
+ Es ist wunderbar.
+ Wir sind über die
+ <Node id="1260"/>Rummelsburger Bucht<Node id="1279"/> gefahren.
+ Hier gibt es auch einige Grillboote.
+ Das sind Bier-Bikes auf dem Wasser.
+ Gewohnt jemand auf seinem
+       eigenen Hausboot.
+ S ist eine tolle Gegend.
+ Die wird zum Naherholungsgebiet.
+ Wo sehen Sie Entwicklungspotential?
+ Die Stadt wird
+    immer näher heranrücken.
+ Das ist unser Publikum.
+ <Node id="1585"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="2" Type="Mention" StartNode="5" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Mention" StartNode="485" EndNode="500">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="345" EndNode="350">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Spree</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="446" EndNode="465">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Rummelsburger_See</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="1260" EndNode="1279">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Rummelsburger_See</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Mention" StartNode="533" EndNode="538">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="35" Type="Mention" StartNode="485" EndNode="500">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Mention" StartNode="5" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Mention" StartNode="446" EndNode="465">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Rummelsburger_See</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Mention" StartNode="345" EndNode="350">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isDefinedBy</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Spree</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Mention" StartNode="1260" EndNode="1279">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Rummelsburger_See</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Mention" StartNode="533" EndNode="538">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1585">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

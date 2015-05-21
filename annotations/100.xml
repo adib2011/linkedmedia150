@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/xml/100.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>wenn bis dahin alles gut geht.
+ Sicherheitshalber sollten Sie
+       für diese Strecke
+ morgen mehr Zeit einplanen.
+ Und soeben erfahren wir:
+ Die Schäden auf der Strecke
+        wurden behobann-en.
+ Die Züge von <Node id="213"/>S-Bahn<Node id="219"/> und <Node id="224"/>Regionalbahn<Node id="236"/>                                
+         verkehren wieder.
+ Berlin hat einen der friedlichsten
+Mai-Feiertage seit Jahren erlebt.
+ Auch wir hatten gestern
+        bis Mitternacht
+ freudig-erstaunt über Demos
+ und Feierlichkeiten berichtet.
+ Zwischendurch flammte kurz Gewalt
+ auf und die <Node id="524"/>Polizei<Node id="531"/> griff ein.
+ Doch die Schäden blieben
+in einem überschaubaren Rahmen.
+ Dementsprechend groß
+war heute auch die Erleichterung.
+ Reinemachen in <Node id="673"/>Kreuzberg<Node id="682"/>.
+ Noch sind nicht alle Scherben weg.
+ Aber diesmal liegt nicht so viel
+  Schutt wie in den Vorjahren.
+ Einige Banken und Geschäfte
+ müssen ihre Fenster erneuern.
+ Insgesamt gab es nur 42 Sachschäden
+            am <Node id="897"/>1. Mai<Node id="903"/>.
+ Verglichen mit anderen Jahren
+        ist das wenig.
+ Dieses Jahr war alles okay.
+  Ich bin schon 20 Jahre hier.
+ Ich bin froh, dass meine Scheiben
+      heil geblieben sind.
+ 54 Polizeibeamte wurden verletzt.
+ Das sind 500 weniger
+     als noch vor 4 Jahren.
+ Es gab 94 Festnahmen.
+ Über verletzte Demonstrations-
+teilnehmer gibt es keine Infos.
+ Kritik gab es allerdings am Einsatz
+der Beamten bei der <Node id="1310"/>NPD-Gegendemo<Node id="1323"/>.
+ Dort wurden Pfefferspray und auch
+  ein Wasserwerfer eingesetzt.
+ Bei Wasserwerfern denkt jeder
+an einen harten, kräftigen Strahl.
+ Das gab es nicht. Es wurde
+     Sprühregen eingesetzt.
+ Das trug dazu bei, dass die Linie
+       eingehalten wurde.
+ Das war wichtig, weil es darum ging
+   Demonstrationen zu schützen.
+ <Node id="1644"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1644">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="10" Type="Mention" StartNode="213" EndNode="219">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/S-Bahn_Berlin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="224" EndNode="236">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Regionalbahn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Mention" StartNode="673" EndNode="682">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin-Kreuzberg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Mention" StartNode="897" EndNode="903">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Erster_Mai</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Mention" StartNode="1310" EndNode="1323">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Mention" StartNode="524" EndNode="531">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Polizei</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="3" Type="Mention" StartNode="213" EndNode="219">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/S-Bahn_Berlin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="224" EndNode="236">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Regionalbahn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="524" EndNode="531">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Polizei</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="897" EndNode="903">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Erster_Mai</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Mention" StartNode="673" EndNode="682">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin-Kreuzberg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="1310" EndNode="1323">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

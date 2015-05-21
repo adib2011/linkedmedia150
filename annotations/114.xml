@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/xml/114.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Das Geld aber ist es ihr wert.
+ Bei uns ist <Node id="44"/>Christian Rumpke<Node id="60"/>,
+     neuer <Node id="73"/>Geschäftsführer
+ der Verbraucherzentrale<Node id="113"/>
+        in <Node id="125"/>Brandenburg<Node id="136"/>.
+ Seit heute im Amt, schön,
+    dass Sie bei uns sind.
+ Guten Abend.
+ So schnell kann es gehen.
+ Welche Schwerpunkte wollen Sie
+   setzen in Ihrem neuen Amt?
+ Wo liegen die größten Baustellen?
+ Eine Baustelle ist eine qualitativ
+       hochwertige Beratung
+ im gesamten <Node id="407"/>Land Brandenburg<Node id="423"/>
+      aufrechtzuerhalten.
+ An 33 Orten
+  wird in <Node id="473"/>Brandenburg<Node id="484"/> beraten.
+ Das ist künftig auch so vorgesehen.
+ Die Herausforderung ist,
+   es gibt immer mehr Fälle,
+ immer mehr Komplexität in Verträgen.
+ Und die noch aufzufangen.
+ Wie wollen Sie das abdecken?
+ Es ist nicht einfach,
+   das alles zu finanzieren.
+ Die Beratungsstellen vor Ort
+   mit Personal auszustatten.
+ Geht es mehr
+  in Richtung Online-Beratung?
+ Ja, es geht auch
+  um das Thema Email-Beratung.
+ Beratung ist in verschiedenen
+  Feldern komplex aufwändig.
+ Und ist auch
+   eine Frage des Vertrauens.
+ Wenn Sie mit jemandem
+       persönlich reden
+ und ihm einen komplexen Fall
+    schildern ist es anders,
+ als per Mail oder am Telefon.
+ Es gibt eine Vielzahl
+    an Kontaktmöglichkeiten.
+ Auch je nach Fall,
+        Alterskategorie
+ und Kunden differenziert es sich.
+ Es fallen um die 15 <Node id="1280"/>Euro<Node id="1284"/> an.
+ Ist das normal,
+oder kann es noch nach oben gehen?
+ Es fängt im Prinzip mit 5 <Node id="1368"/>Euro<Node id="1372"/> an
+ für eine allgemeine Rechtsberatung
+       von etwa 15 Minuten.
+ Das kann weiter nach oben gehen.
+ Wenn es um Bausparsberatung geht
+mit tiefgehenden Vertragswerken.
+ Da kann es auch 150 <Node id="1562"/>Euro<Node id="1566"/> kosten.
+ Aber bei einem Anwalt
+ kann es das Zehnfache kosten.
+ Welche Bereiche können Sie abdecken?
+ Von der Lüftungsanlage
+bis zum Handy für meine Tochter?
+ Genau so breit ist das Spektrum.
+ Wir machen Energieberatung,
+  allgemeine Rechtsberatung,
+ für Finanztransaktionen,
+   also auch Versicherungen.
+ Wir machen auch Ernährungsberatung.
+  Auch z.B. Pflegerechtsberatung.
+ Das wird auch für die ältere
+  Generation immer wichtiger.
+ Geht es auch zumehmend
+   in die Schuldnerberatung?
+ Und, dass sich viele Streitigkeiten
+       um Finanzen anhäufen?
+ Oder geht es mehr um Produkte
+ und andere Dienstleistungen?
+ Sobald es in den Bereich
+   der Privatinsolvenz geht,
+ hört unsere Aufgabe auf.
+ Da gibt es eine
+   klare Aufgabenaufteilung.
+ Im <Node id="2313"/>Land Brandenburg<Node id="2329"/>, wie auch in
+den meisten anderen Bundesländern.
+ Unsere Aufgabe ist es,
+ dass es erst gar nicht zu einer
+Schuldnerberatung kommen muss.
+ Dass im Vorfeld
+     auch eingeklagt wird.
+ Und wir Verbraucherrechtssicherheit
+in den fraglichen Fällen bekommen.
+ Hoffen Sie, dass Sie
+     mit dem großen Angebot
+ das weiter halten können?
+ Sind keine Kürzungen geplant?
+ Ich bin heute
+   den ersten Tag im Dienst.
+ Ich hatte eben
+   eine große Veranstaltung,
+ der <Node id="2784"/>Deutsche Verbrauchertag<Node id="2807"/>.
+ Mein Anspruch ist es,
+    das aufrechtzuerhalten.
+ Bei dem einen oder anderen Punkt
+muss ich schauen, ob es haltbar ist.
+ Aber die Herausforderung ist, von
+der <Node id="2970"/>Prignitz<Node id="2978"/> bis <Node id="2983"/>Frankfurt/ Oder<Node id="2998"/>
+ genau diese Beratungsqualität
+      aufrechtzuerhalten.
+ Viel Erfolg, danke,
+       <Node id="3084"/>Christian Rumpke<Node id="3100"/>.
+ <Node id="3103"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3103">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="36" Type="Mention" StartNode="2313" EndNode="2329">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Mention" StartNode="2784" EndNode="2807">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Mention" StartNode="44" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Mention" StartNode="3084" EndNode="3100">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Mention" StartNode="2983" EndNode="2998">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Frankfurt_(Oder)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Mention" StartNode="2970" EndNode="2978">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Prignitz</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Mention" StartNode="73" EndNode="113">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Mention" StartNode="125" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Mention" StartNode="473" EndNode="484">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Mention" StartNode="407" EndNode="423">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Mention" StartNode="1280" EndNode="1284">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Euro</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Mention" StartNode="1368" EndNode="1372">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Euro</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Mention" StartNode="1562" EndNode="1566">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Euro</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="1" Type="Mention" StartNode="44" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="Mention" StartNode="407" EndNode="423">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="1280" EndNode="1284">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Euro</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="1368" EndNode="1372">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Euro</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="1562" EndNode="1566">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Euro</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Mention" StartNode="2970" EndNode="2978">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Prignitz</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="2983" EndNode="2998">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Frankfurt_(Oder)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="Mention" StartNode="2313" EndNode="2329">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Mention" StartNode="2784" EndNode="2807">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="3084" EndNode="3100">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="Mention" StartNode="73" EndNode="113">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="Mention" StartNode="125" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="Mention" StartNode="473" EndNode="484">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

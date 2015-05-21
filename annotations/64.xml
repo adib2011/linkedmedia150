@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/64.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Alle Menschen der Welt
+    können es nicht retten,
+ wenn er Nein sagt.
+ Im Juli soll es nun
+  möglicherweise doch noch mal
+ Gespräche mit dem Eigentümer geben.
+ Jede Krise hat ihre Gewinner.
+Das gilt sogar für diesen Sommer.
+ Oder für den Zeitraum,
+ der früher einmal Sommer war.
+ Profitieren von dieser Sommerkrise
+        können die Kinos:
+ Drinnen regnet es nicht.
+ Aber jede Krise
+    hat auch ihre Verlierer.
+ Um so einen geht es
+   heute in unserem Kinotipp.
+ "<Node id="467"/>Papadopoulous und Söhne<Node id="490"/>" heißt die
+griechisch-britische Krisenkomödie.
+ <Node id="539"/>Harry Papadopoulous<Node id="558"/> hat alles,
+wovon die meisten Menschen träumen:
+ Einen luxuriösen Lebensstil,
+      drei gesunde Kinder
+ plus die Auszeichnung
+  als Unternehmer des Jahres.
+ Doch dann kommt die <Node id="736"/>Finanzkrise<Node id="747"/>
+ und er muss
+all seine Kredite zurückbezahlen.
+ Sofort.
+ Über Nacht verliert
+  der englische Geschäftsmann
+ mit den griechischen Wurzeln
+          fast alles.
+ Eine Sache kam heute Morgen
+in dem Meeting noch zur Sprache.
+ Der Fish'n'Chips-Shop.
+        Die drei Brüder.
+ Welcher Fish'n'Chips-Shop?
+ Der steht aber seit Jahren leer.
+ Den kann die Bank aber
+nicht als Vermögen einbehalten,
+ wegen eines Miteigentümers
+  namens <Node id="1173"/>Spiros Papadopoulous<Node id="1193"/>.
+ Verstehe.
+ Ja, das ist sein Bruder.
+ Aber sie haben seit Jahren
+   nicht miteinander geredet.
+ Der Fish'n'Chips-Imbiss liegt
+in einem schäbigen Viertel <Node id="1348"/>London<Node id="1354"/>s<Node id="1355"/>.
+ <Node id="1358"/>Harry Papadopoulous<Node id="1377"/>
+        hat weder Lust,
+ sich mit dieser
+  neuen Zukunft anzufreunden,
+ noch, sich mit seinem Bruder
+      wieder zu versöhnen.
+ Für ihn kommt eigentlich
+    nur der Verkauf infrage.
+ Doch <Node id="1567"/>Spiros<Node id="1573"/> hat einen Plan:
+ Wenn wir ihn wieder
+      in Schwung bringen,
+ dann verkaufen wir
+      keinen leeren Laden,
+ sondern
+ ein gut laufendes Unternehmen.
+ Diese Verhandlungen, in denen
+du steckst, können ewig dauern.
+ In der Zwischenzeit
+    kriegst du Bargeld rein
+ und kannst auch noch etwas sparen,
+ weil der Laden
+  auch zwei Schlafzimmer hat.
+ Schließlich bleibt <Node id="1939"/>Harry
+Papadoupoulous<Node id="1959"/> nichts anders übrig,
+ als mit Spiros zusammenzuarbeiten.
+ Auch wenn der Film nicht ganz
+ohne Migrantenklischees auskommt,
+ ist "<Node id="2088"/>Papadoupoulous und Söhne<Node id="2112"/>"
+ nicht nur
+eine oberflächliche Krisenkomödie.
+ Der Regisseur <Node id="2175"/>Marcus Markou<Node id="2188"/>
+ ist selber Sohn
+griechischer Einwanderer in <Node id="2234"/>London<Node id="2240"/>.
+ Auch davon erzählt der Film:
+    von der Identitätssuche.
+ "<Node id="2303"/>Papadopoupoulous und Söhne<Node id="2329"/>"
+ ist also genauso ein Film
+  über eine Familiengeschichte
+ wie über den Erfolg
+      und das Scheitern.
+ Vor allem aber macht der Film Mut.
+ <Node id="2472"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="1" Type="Mention" StartNode="467" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://en.wikipedia.org/wiki/Papadopoulos_%26_Sons</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Work</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isDefinedBy</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Mention" StartNode="539" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">Fictional Character</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="1348" EndNode="1355">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/London</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="1567" EndNode="1573">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="1939" EndNode="1959">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="1173" EndNode="1193">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="2088" EndNode="2112">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Work</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Mention" StartNode="2175" EndNode="2188">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="2234" EndNode="2240">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/London</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Mention" StartNode="2303" EndNode="2329">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Work</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="736" EndNode="747">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="17" Type="Mention" StartNode="1358" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Mention" StartNode="539" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Mention" StartNode="1348" EndNode="1355">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/London</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Mention" StartNode="1173" EndNode="1193">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Mention" StartNode="2234" EndNode="2240">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/London</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Mention" StartNode="1348" EndNode="1354">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/London</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Mention" StartNode="2175" EndNode="2188">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Mention" StartNode="1939" EndNode="1959">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Mention" StartNode="467" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Work</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Mention" StartNode="2088" EndNode="2112">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Work</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Mention" StartNode="2303" EndNode="2329">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Work</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2472">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

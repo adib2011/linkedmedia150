@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/52.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Es ist, als ob man durch
+      ein Mikroskop guckt.
+ aus der Luft sieht es
+       ganz anders aus.
+ Ich krieg da ne Gänsehaut.
+ Diese Kamera entwickelte
+der amerikanische Geheimdienst <Node id="184"/>CIA<Node id="187"/>
+ Sie macht selbst aus 1000 m Höhe
+scharfe, wackelfreie Nahaufnahmen.
+ Man kann Menschen völlig ungestört
+beobachten. Tiere natürlich auch.
+ Doch der Film zeigt nicht nur
+ einmalige Landschaftsbilder.
+ Er erzählt auch Heiteres und
+  Wissenswertes von der Küste,
+ ihren Stränden, Städten
+    und Sehenswürdigkeiten.
+ Der Königsstuhl mit 118 m der
+  höchste Punkte an der Küste
+ Es ist sehr schön.
+Man muss gar nicht weit weg fahren,
+ hat das alles vor der Haustür.
+Man muss es nur zu schätzen wissen.
+ Wir hoffen, dass durch den Film
+     viele darauf kommen,
+ in der Heimat herumzufahren,
+  um tolle Sachen zu erleben.
+ Die <Node id="811"/>Ostsee<Node id="817"/> von oben.
+Macht richtig Lust auf das Meer!
+ <Node id="862"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="2" Type="Mention" StartNode="184" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/recognyze/ontology</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Central_Intelligence_Agency</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="811" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/recognyze/ontology</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Ostsee</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="5" Type="Mention" StartNode="184" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/recognyze/ontology</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Central_Intelligence_Agency</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="811" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/recognyze/ontology</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Ostsee</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="862">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

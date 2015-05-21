@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/149.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Das ermöglicht uns
+auch einen Blick hinter den Damen.
+ Wir riechen und sehen das
+        Treibgut hier.
+ Aber die Wellen hier haben
+         nachgelassen.
+ Wir hoffen auf eine ruhige Nacht.
+ Eine heiße Dusche und dann ins Bett:                                
+         Was für ein Luxus!
+ Tagelange haben Helfer
+im Hochwassergebiet geschuftet.
+ In praller Sonne,
+perforiert von Hunderten von Mücken,
+ Sandsack nach Sandsack
+     befüllt und gestapelt.
+ Ein Knochenjob.
+ Jetzt, da sich die Lage beruhigt,
+können die Freiwilligen nach Hause.
+ Hundemüde und mit vielen
+  eindrucksvollen Erlebnissen:
+ Sie kehren zurück:
+ Die Berliner Hochwasser-Helden
+   vom <Node id="656"/>Deutschen Roten Kreuz<Node id="677"/>.
+ Tagelang haben 107 freiwillige
+Helfer im Krisengebiet gerackert.
+ Und jetzt sind sie...
+ Vor allem erschöpft,
+ich freue mich auf die Badewanne.
+ Es war sehr anstrengend.
+ Wenig Schlaf.
+ Ich muss den Bart rasieren.
+ Die Helfer aus <Node id="910"/>Berlin<Node id="916"/>
+gehören zum "Betreuungsdienst".
+ In vier Feldküchen haben sie
+bis gestern für alle rekordgekocht,
+ die Sandsäcke schleppen
+     und Deiche abdichten.
+ Und sie haben geholfen,
+ wenn es Einsatzkräften und
+   Flutopfern schlecht ging.
+ Den einen oder anderen
+hätte ich gerne in den Arm genommen
+ und psychische Hilfe geleistet.
+ Wenn man am Deich ist,
+      gibt es keine Pause.
+ Da wird durchgearbeitet.
+ Die Hochwasserlage in <Node id="1342"/>Brandenburg<Node id="1353"/>
+   stabilisiert sich langsam.
+ Aber jetzt werden die Schäden
+    erst richtig sichtbar.
+ Hilfe ist also weiterhin nötig.
+ Das wissen auch die Sänger
+   der <Node id="1510"/>Berliner Domkantorei<Node id="1530"/>.
+ Sie geben heute Abend
+ein Benefiz-Konzert im <Node id="1578"/>Berliner Dom<Node id="1590"/>.
+ Ich kann jetzt nicht hinfahren.
+Selbst wenn, wäre ich völlig kaputt,
+ weil ich keine körperliche Arbeit
+          gewöhnt bin.
+ Aber ich kann Musik machen und Leute                                
+suchen, die auch gerne Musik machen.
+ Wir können für Betroffene singen,
+       Solidarität zeigen,
+ <Node id="1890"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1890">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="17" Type="Mention" StartNode="910" EndNode="916">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="1510" EndNode="1530">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berliner_Domkantorei</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Mention" StartNode="1578" EndNode="1590">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berliner_Dom</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Mention" StartNode="656" EndNode="677">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Deutsches_Rotes_Kreuz</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Mention" StartNode="1342" EndNode="1353">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="8" Type="Mention" StartNode="1510" EndNode="1530">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berliner_Domkantorei</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Mention" StartNode="1578" EndNode="1590">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berliner_Dom</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Mention" StartNode="910" EndNode="916">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Mention" StartNode="656" EndNode="677">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Deutsches_Rotes_Kreuz</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="1342" EndNode="1353">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

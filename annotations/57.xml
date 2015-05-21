@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/57.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Von bis zu 800 Firmen
+und bis zu 15.000 Arbeitsplätzen
+ zwischen <Node id="65"/>Rollfeld<Node id="73"/> und <Node id="78"/>Spandauer
+Schifffahrtskanal<Node id="105"/> noch keine Spur.
+ Solange ein konkreter
+    Schließungstermin fehlt,
+ will sich hier keiner festlegen.
+ Auch die schönste Geschichte
+       hat eben ein Ende.
+ Aber wird es auch ein Happy End?
+ Misshandlung von Schutzbefohlenen
+ Misshandlung von Schutzbefohlenen:
+ hinter der juristischen Formulierung                                
+         verbergen sich oft
+ schreckliche Jahre der Grausamkeit.
+ Dort wo eigentlich ein Zuhause
+Sicherheit und Wärme bieten sollte.
+ Seit heute steht in <Node id="594"/>Potsdam<Node id="601"/>
+   ein Ehepaar vor Gericht,
+ das seine vier Pflegekinder
+    misshandelt haben soll.
+ Gefährliche Körperverletzung
+steht auch in der Anklageschrift.
+ <Node id="752"/>Tina Rohowski<Node id="765"/>
+    war bei der Verhandlung.
+ Nach außen heile Welt.
+ Aber zu Hause soll Ehepaar K.
+    seine drei Pflegekinder
+ schwerst misshandelt haben.
+          Jahrelang.
+ Das alles bestreiten sie heute,
+z. B. die Sache mit dem Feuerzeug.
+ Als der Pflegesohn beim Kokeln
+        erwischt wurde,
+ habe <Node id="1058"/>Josef K.<Node id="1066"/>, so der Vorwurf,
+ ihm zur Strafe die Flamme
+  an die Genitalien gehalten.
+ Heute verteidigt sich das Paar:
+ In ihrem Haus habe es
+     keine Gewalt gegeben.
+ Um ihm die Konsequenzen
+         klarzumachen,
+ was ein Feuer im Haus
+    mit sich bringen könnte,
+ hat er längere Zeit ihn sich
+  zur Brust genommen. Verbal.
+ Wie es zuging in der Familie, kommt
+nun erst Jahre später zur Sprache.
+ Heute sagte die jüngste
+   <Node id="1484"/>Pflegetochter <Node id="1498"/>Katrin<Node id="1504"/> aus.
+ Heute sagte die jüngste
+   <Node id="1538"/>Pflegetochter <Node id="1552"/>Katrin<Node id="1558"/> aus.
+ Sie beschreibt die Kindheit hier
+im Potsdamer Ortsteil <Node id="1620"/>Neu Fahrland<Node id="1632"/>
+ als grausam.
+Sie sei ständig geschlagen worden,
+ habe Erbrochenes essen
+    und Urin trinken müssen.
+ Wegen schlechter Noten
+  oder anderen Streitigkeiten.
+ Sie ist mit 5 Jahren
+       dorthin gekommen.
+ Natürlich ist sie
+    schwerst traumatisiert.
+ Über die Jahre kam immer wieder
+     Besuch vom Jugendamt.
+ Aber die Betreuer
+     hätten oft gewechselt.
+ Einige waren kritisch, die sagten:
+ "Wir müssen hier
+   mehr Unterstützung bieten
+ oder andere rechtliche Maßnahmen
+          einleiten."
+ Aber es gab auch Rückmeldungen
+    seitens des Jugendamtes,
+ dass die Pflegekinder
+sehr gut dort aufgenommen wurden.
+ Sie durfte kaum raus zu Freunden,
+  berichtet die Pflegetochter.
+ Sie habe sich nicht getraut,
+  Lehrern oder Sozialarbeitern
+ etwas zu erzählen.
+ Von 2003 bis 2004
+ war dann das <Node id="2428"/>Jugendamt Potsdam<Node id="2445"/>
+ für die Familie verantwortlich.
+ Das wird noch geprüft.
+   Aus den Akten geht hervor,
+ dass es damals
+keine Auffälligkeiten gegeben hat.
+ Die Kinder, so wirkt es heute,
+    haben auch mit Mitte 20
+ noch nicht in ihr Leben gefunden.
+ Die Rede ist von Depressionen,
+     Wut, Arbeitslosigkeit.
+ Die älteste <Node id="2752"/>Pflegetochter <Node id="2766"/>Alexandra<Node id="2775"/>
+        hat heute 4 Kinder.
+ Sie leben im Heim.
+Auch <Node id="2829"/>Alexandra<Node id="2838"/> sagte heute aus.
+ Sie hatte das
+  Verfahren in Gang gebracht.
+ Inzwischen lebt die 27-Jährige
+  wieder bei den Angeklagten.
+ Sie zog vor Gericht Anschuldigungen
+  gegen die Pflegeeltern zurück.
+ Sie gucke sehr viel Fernsehen, habe
+ sich aus Krimis und Gerichtsshows
+ <Node id="3106"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="1" Type="Mention" StartNode="65" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Rollfeld</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Mention" StartNode="78" EndNode="105">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin-Spandauer_Schifffahrtskanal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="594" EndNode="601">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Postdam</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="752" EndNode="765">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Mention" StartNode="1484" EndNode="1504">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="1538" EndNode="1558">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Mention" StartNode="1620" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Neu_Fahrland</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="2428" EndNode="2445">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Mention" StartNode="1058" EndNode="1066">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Mention" StartNode="2752" EndNode="2775">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Mention" StartNode="2829" EndNode="2838">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="17" Type="Mention" StartNode="594" EndNode="601">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isDefinedBy</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Postdam</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Mention" StartNode="78" EndNode="105">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin-Spandauer_Schifffahrtskanal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Mention" StartNode="752" EndNode="765">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Mention" StartNode="1498" EndNode="1504">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Mention" StartNode="1058" EndNode="1066">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Mention" StartNode="1620" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Neu_Fahrland</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Mention" StartNode="1552" EndNode="1558">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Mention" StartNode="2829" EndNode="2838">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Mention" StartNode="2766" EndNode="2775">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Mention" StartNode="2428" EndNode="2445">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Mention" StartNode="65" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Rollfeld</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3106">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/92.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Guten Abend zu <Node id="15"/>rbb AKTUELL<Node id="26"/>.
+ Farbbeutel auf sanierte Hauswände,
+ eingeschlagene Fensterscheiben:
+ Zu solchen Anschlägen
+  wird auf einer Internetseite
+ der linksextremen Szene aufgerufen.
+ Eine "Berliner Liste" mit den
+Anschriften von 100 Bauprojekten,
+ Investoren und zuständigen Ämtern.
+ Die <Node id="294"/>Polizei<Node id="301"/> nimmt das sehr ernst.
+ Die Aktionen der letzten Tage
+ belegen die Ernsthaftigkeit.
+ Die Internetseite,
+ die Sicherheitsbehörden hinter den
+ Kulissen seit Wochen beunruhigt.
+ "MieterInnen stressen zurück",
+          heißt es da.
+ Symbole sagen, was mit stressen
+ gemeint ist: Lacksprühdosen,
+ brennende Mülltonnen,
+    Flecke von Farbbeuteln.
+ Anbei - für "kreative Aktionen"
+      - eine Adressliste
+ mit Angaben von
+Immobilien, Investoren, Behörden,
+ die die Autoren für verantwortlich
+    halten für die Verdrängung
+ von Mieterinnen und Mietern.
+ Anbei Tipps, wie nach einem Anschlag                                
+  Spuren beseitigt werden können.
+ "Es gibt diverse Möglichkeiten,
+Gebäude farblich zu verschönern:
+ Glühbirnen befüllen, Wachs-Eier,
+Einmachgläser oder Feuerlöscher."
+ In dieser Liste sind
+   über 100 Objekte genannt.
+ 17 dieser 100 Objekte
+  wurden bis jetzt beschädigt.
+ Die Liste fordert auf,
+weiter diese Häuser zu besuchen.
+ Daher nehmen wir diese Sache ernst.
+ Wir führen Ermittlungen,
+haben ein Verfahren eingeleitet
+ wegen des Aufforderns zu Straftaten.
+ In der Nacht zu Dienstag
+      der jüngste Anschlag
+ auf in der Liste genannte Objekte:
+ In den <Node id="1480"/>Choriner Höfen<Node id="1494"/>
+in <Node id="1498"/>Prenzlauer Berg<Node id="1513"/> werfen Vermummte
+ Farbbeutel und demolieren Scheiben.
+ Zudem beschädigen sie einen <Node id="1597"/>Porsche<Node id="1604"/>.
+ Auf der Flucht streuen sie Nägel
+ und Krähenfüße auf die Straße.
+ Nach den Themen Gentrifizierung
+und aufgrund der Vorgehensweise
+ sehen wir die Täter
+   im linksextremen Spektrum.
+ Es ist schwierig,
+     hier Täter zu fassen.
+ Die Taten werden
+     sehr schnell begangen
+ Es sind Gruppen
+ von etwa 10 Leuten unterwegs.
+ Die Personen sind schwer zu stellen.
+ Weil der Server im Ausland steht,
+ kann die Seite seit Monaten
+  nicht abgeschaltet werden.
+ Die <Node id="2063"/>Polizei<Node id="2070"/> hat Betroffene gewarnt.
+ V.a. Wohnhäuser gehobenen Standards
+wie hier in <Node id="2144"/>Kreuzberg<Node id="2153"/>, sind bedroht,
+ sowie Wohnungsbaugesellschaften wie
+die GSW, die für "Luxussanierungen"
+ und Mietsteigerungen
+ verantwortlich gemacht werden.
+ Es gibt keine Erkenntnisse über das
+  hinaus, was im Internet steht,
+ auch nicht vom Verfassungsschutz.
+ Wir ermitteln natürlich auch
+       in diesem Bereich.
+ Ich glaube,
+hier ist der Rechtsstaat gefordert.
+ Es kann nicht sein, dass
+Menschen eingeschüchtert werden,
+ weil sie Hauseigentümer sind.
+ Bei allem Verständnis
+ für die berechtigten Anliegen.
+ Wir brauchen hier Wohnungsbau.
+ Im Visier der Täter auch Häuser,
+ <Node id="2718"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2718">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="8" Type="Mention" StartNode="15" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Work</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/RBB_Aktuell</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="294" EndNode="301">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Polizei</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Mention" StartNode="2063" EndNode="2070">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Polizei</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="1480" EndNode="1494">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Mention" StartNode="1498" EndNode="1513">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/Berlin-Prenzlauer_Berg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Mention" StartNode="2144" EndNode="2153">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Kreuzberg_(Berlin)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Mention" StartNode="1597" EndNode="1604">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Porsche</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="1" Type="Mention" StartNode="15" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Work</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/RBB_Aktuell</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="294" EndNode="301">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/RBB_Aktuell</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="2063" EndNode="2070">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/RBB_Aktuell</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="1480" EndNode="1494">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="1498" EndNode="1513">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin-Prenzlauer_Berg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="1597" EndNode="1604">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Porsche</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Mention" StartNode="2144" EndNode="2153">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Kreuzberg_(Berlin)</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

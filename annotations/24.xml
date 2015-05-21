@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/24.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>a<Node id="1"/>In den vergangenen zwei Monaten
+  kamen rund 100.000 Menschen
+ ins <Node id="68"/>Naturkundemuseum<Node id="84"/>.
+ Bis Sonntag ist <Node id="103"/>Knut<Node id="107"/>
+     im Foyer ausgestellt.
+ Danach kommt er vorerst
+ in die <Node id="168"/>wissenschaftlichen Sammlungen                                
+       des Naturkundemuseums<Node id="258"/>.
+ Auf dem Friedhof in <Node id="281"/>Biesdorf<Node id="289"/>
+wurde heute das Baby bestattet,
+ das vor drei Wochen in <Node id="346"/>Hellersdorf<Node id="357"/>
+      tot aufgefunden wurde.
+ Drei Polizisten ermöglichten auf
+private Initiative die Beisetzung.
+ Gegen die Mutter des Kindes
+   und ihren Lebensgefährten
+ wird wegen Mordes ermittelt.
+ Sie hatten den Jungen offenbar
+verhungern und verdursten lassen.
+ Auf Wunsch der Beamten blieben wir
+ bei der Trauerfeier auf Abstand.
+ Die Trauergäste verließen den
+ Friedhof sprachlos und ratlos.
+ Die Eltern des beerdigten Säuglings
+   sitzen in Untersuchungshaft.
+ Ein Kind verdursten zu lassen
+und noch in der Wohnung zu bleiben,
+ in den Tagen.
+ Da kriegt man Gänsehaut.
+ Man kann nicht fassen, wie
+man so etwas übers Herz bringt.
+ Eltern von Kleinkindern
+      ging das Schicksal
+ des vor drei Wochen gestorbenen
+        Säuglings nahe.
+ Sie erlebten eine intime
+  und würdevolle Trauerfeier.
+ Der Pastor fand dabei
+     die richtigen Worte.
+ Wir sind gekommen um zu
+  trauern, nicht um urteilen.
+ Können wir verstehen, dass es
+   nichts zu verstehen gibt?
+ Der Sarg stand in der Mitte.
+ Als im Moment der Stille
+  ein Baby zu schreien begann,
+ ließen einige Gäste
+   ihrer Trauer freien Lauf.
+ Polizisten der zuständigen
+         Mordkommission
+ organisierten die Beisetzung.
+ Ohne sie und die <Node id="1545"/>evangelische
+  Kirchengemeinde Hellersdorf<Node id="1587"/>
+ hätte der Säugling
+keinen würdigen Abschied erhalten.
+ Wir haben nach Trost gesucht.
+ Und versucht die Arbeit derer,
+    die für diese Geschichte
+ zuständig waren, zu würdigen.
+ Die Arbeit der Polizei.
+ Sie fand den schon
+     verdursteten Säugling
+ nach einem Zeugenhinweis
+ in einem Park in <Node id="1882"/>Hellersdorf<Node id="1893"/>.
+ Gegen die Mutter und ihren Partner
+ ermittelt die Staatsanwaltschaft
+ wegen Totschlags.
+ Möglich ist auch eine Anklage
+         wegen Mordes.
+ Am Leichenfundort gedenken
+  Anwohner des kleinen Jungen
+ weiterhin mit Kuscheltieren
+       und Botschaften.
+ <Node id="2150"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="1" Type="Mention" StartNode="68" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isDefinedBy</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Museum_f%C3%BCr_Naturkunde_(Berlin)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Mention" StartNode="103" EndNode="107">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="168" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="281" EndNode="289">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin-Biesdorf</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="1545" EndNode="1587">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="1882" EndNode="1893">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/Bezirk_Marzahn-Hellersdorf</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="8" Type="Mention" StartNode="281" EndNode="289">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">versionInfo</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin-Biesdorf</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="346" EndNode="357">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin-Biesdorf</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Mention" StartNode="168" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="1545" EndNode="1587">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Mention" StartNode="1882" EndNode="1893">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">versionInfo</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/Bezirk_Marzahn-Hellersdorf</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="68" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isDefinedBy</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Museum_f%C3%BCr_Naturkunde_(Berlin)</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="1" EndNode="2150">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

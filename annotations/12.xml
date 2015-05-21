@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/xml/12.xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>und wirklich überlegen,
+ob es über 20,30 Jahre leistbar ist.
+ <Node id="62"/>Frau Dörr<Node id="71"/>, herzlichen Dank für
+den Besuch und Ihre Informationen.
+ Gerne.
+          Vielen Dank.
+ Woher kommt die Milch,
+wenn <Node id="188"/>Mark Brandenburg<Node id="204"/> draufsteht?
+ Nicht zwingend aus <Node id="237"/>Brandenburg<Node id="248"/>!
+ Und das muss jetzt deutlicher
+  auf der Verpackung stehen.
+ Ein kleiner Schritt
+ in Richtung Verbraucherschutz.
+ Klarheit in Sachen Lebensmitteln:
+ Dafür gibt es seit nun  2 Jahren
+das entsprechende Internetportal.
+ Hier können Etikettenschwindeleien
+        angezeigt werden.
+ Und davon wird
+  reichlich Gebrauch gemacht.
+ Heute wurde
+   ein erstes Fazit gezogen.
+ Der Obstsaft mit unklarer Herkunft.
+ Statt viel Milch viel Pulver,
+ statt unverfälscht
+   viel Geschmacksverstärker.
+ Und schließlich die Milch
+  mit irreführender Herkunft.
+ Tausende solcher Fälle
+melden die Verbraucher an das <Node id="845"/>Portal
+ "Lebensmittelklarheit"<Node id="875"/>,
+einer Seite der Verbraucherzentrale.
+ Hier werden die Angaben geprüft,
+  der Hersteller angeschrieben
+ oder abgemahnt,
+  wenn die Täuschung groß ist.
+ Und die Produzenten reagieren.
+ 30% der Hersteller
+  greifen die Anregungen auf,
+ verändern die Abbildungen,
+   verändern die Aufmachung,
+ sorgen für eine bessere Information.
+ An "<Node id="1209"/>Lebensmittelklarheit.de<Node id="1232"/>"
+ wandten sich in den letzten 2 Jahren                                
+       über 7000 Verbraucher.
+ Über das Portal können sie außerdem
+  Fragen stellen und Kritik üben.
+ Bis heute sind 360 solcher
+missverständlichen Produkte erfasst.
+ 212 haben laut Verbraucherzentralen
+ getäuscht oder tun es immer noch.
+ 107 Produkte wurden von den
+Herstellern inzwischen geändert.
+ Und 43 Fälle können
+  den Kunden zwar irritieren,
+ sind aber gesetzlich erlaubt.
+ So wie diese Aufschrift: "Kräuter
+ und Gewürze pur", wirbt Knorr.
+ Tatsächlich enthält die Paste laut
+Zutaten nur 11% mediterrane Kräuter.
+ Die Firma gibt sich einsichtig,
+       will das ändern.
+ Solche Mogelpackungen
+regen die Verbraucher besonders auf.
+ Wenn beworbene Zutaten
+      kaum vorhanden sind,
+ oder gar nicht erst
+      aufgedruckt werden.
+ Ein Dauerthema
+   bleiben die Zusatzstoffe.
+ Verbraucher monierten:
+ "Maggi Fix Kartoffelgratin"
+   werbe zwar mit dem Siegel
+ "ohne Zusatzstoff
+     Geschmacksverstärker",
+ enthalte aber sehr wohl
+geschmacksverstärkendes Hefeextrakt.
+ Dann, so die Verbraucherzentrale,
+ solle die gezielte Werbung
+   doch besser unterbleiben.
+ Hersteller <Node id="2381"/>Nestle<Node id="2387"/> argumentiert:
+ Hefeextrakt sei kein Zusatzstoff,
+    sondern ein Lebensmittel.
+ Täuscht der Hersteller weiter,
+  kommt es auch zum Prozess.
+ Prominentester Fall: Die Produkte
+unter dem Label "<Node id="2580"/>Mark Brandenburg<Node id="2596"/>".
+ Die Milch eines baden-
+ württembergischen Herstellers
+ erweckt den Eindruck, aus der Region                                
+    zu sein. Stimmt aber nicht.
+ Solche Fälle sorgen für Frust
+     bei den Verbrauchern:
+ Nach einer Studie glauben
+   Dreiviertel der Deutschen,
+ dass sie vom Hersteller
+       getäuscht werden.
+ Ich finde es schon ärgerlich.
+ Man glaubt, die Kühe stehen
+auf einer grünen Wiese, in der Mark.
+ Man ist ja darauf bedacht, für die
+Region, für die Bauern etwas zu tun.
+ Und Produkte
+   aus der Region zu kaufen.
+ Und wenn das nicht der Fall ist,
+ fühle ich mich
+   über den Nuckel geschoben.
+ Ich würde mir wünschen, dass die
+Herkunftsbezeichnung draufstünde.
+ Sei es Milch, Käse, Wurst. Man
+sieht ja immer nur tolle Werbung.
+ Auf der Packung von <Node id="3369"/>Mark Brandenburg<Node id="3385"/>                                
+      muss jetzt draufstehen,
+ wo die Milch abgefüllt wird.
+ Verbraucherschützern
+       reicht das nicht.
+ Wir stellen fest, dass Verbraucher
+ zunehmend regionale Lebensmittel
+         kaufen wollen.
+ Da muss z.B. definiert werden:
+ Geht die Region bis <Node id="3672"/>Brandenburg<Node id="3683"/>,
+  bis <Node id="3691"/>Bayern<Node id="3697"/> oder bis <Node id="3707"/>Neapel<Node id="3713"/>?
+ Seit heute können sich die Nutzer
+   auf <Node id="3757"/>Lebensmittelklarheit.de<Node id="3780"/>
+ noch mehr einbringen
+und eigene Schwerpunkte setzen.
+ <Node id="3836"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="17" Type="Mention" StartNode="3691" EndNode="3697">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/Bayern</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Mention" StartNode="3757" EndNode="3780">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Mention" StartNode="3672" EndNode="3683">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Mention" StartNode="62" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Mention" StartNode="3707" EndNode="3713">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/Neapel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Mention" StartNode="1209" EndNode="1232">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="845" EndNode="875">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="2381" EndNode="2387">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="188" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/EMB_Energie_Mark_Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Mention" StartNode="2580" EndNode="2596">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/EMB_Energie_Mark_Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="3369" EndNode="3385">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/EMB_Energie_Mark_Brandenburg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Mention" StartNode="237" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://dbpedia.org/page/Brandenburg</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="19" Type="Mention" StartNode="62" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Mention" StartNode="188" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Mention" StartNode="3369" EndNode="3385">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Mention" StartNode="2580" EndNode="2596">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Mention" StartNode="1209" EndNode="1232">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Mention" StartNode="845" EndNode="875">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Mention" StartNode="237" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Mention" StartNode="3757" EndNode="3780">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Product</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Mention" StartNode="3672" EndNode="3683">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Mention" StartNode="2381" EndNode="2387">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Mention" StartNode="3707" EndNode="3713">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/Neapel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Mention" StartNode="3691" EndNode="3697">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">versionInfo</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/Bayern</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3836">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

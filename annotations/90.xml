@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/90.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Das war wichtig, weil es darum ging
+   Demonstrationen zu schützen.
+ Ansonsten gab es
+keine nennenswerten Zwischenfälle.
+ Der Tag der Arbeit verlief
+in diesem Jahr ausnehmend ruhig.
+ Die <Node id="187"/>BR Volleys<Node id="197"/> hatten heute
+       die Möglichkeit,
+ frühzeitig
+ihren Meistertitel zu verteidigen.
+ In der <Node id="290"/>Finalserie um die deutsche
+    Volleyball-Meisterschaft<Node id="345"/>
+ führten die Berliner mit 2:0 Siegen.
+ Heute gab es in der <Node id="405"/>Max-Schmeling-
+       Halle<Node id="432"/> das 3. Spiel.
+ Es ging vor wenigen Mintuen
+           zu Ende.
+ Noch ein Erfolg und
+  sie sind deutscher Meister.
+ Ob es geklappt hat,
+   sagt Ihnen <Node id="582"/>Jörg Klawitter<Node id="596"/>.
+ 8553 Zuschauer sind gekommen,
+um den Deutsche Meister zu feiern.
+ Doch die Gäste aus <Node id="684"/>Friedrichshafen<Node id="699"/>
+  erwischten den besseren Start.
+ Doch die Gastgeber holen auf.
+ Der <Node id="769"/>Friedrichshafen<Node id="784"/> kann den
+ersten Satz für sich entscheiden.
+ Die Volleys liegen
+      überraschend hinten.
+ Doch dann finden Sie besser
+         in das Spiel.
+ Der zweite Durchgang beginnt
+        ausgeglichener.
+ Die Volleys feiern sich an.
+ Doch der Block von <Node id="1030"/>Friedrichshafen<Node id="1045"/>
+      ist heute sehr stark.
+ Die Gäste gewinnen
+     auch den zweiten Satz.
+ Noch aber geben die Volleys und
+      die Fans nicht auf.
+ Die Berliner gewinnen den
+         dritten Satz.
+ Es steht nur noch 2:1 für die Gäste.
+ Die Berliner haben in dieser Saison
+   noch kein Heimspiel verloren.
+ Doch die Wand von <Node id="1358"/>Friedrichshafen<Node id="1373"/>
+   scheint heute unbezwingbar.
+ <Node id="1406"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1406">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="16" Type="Mention" StartNode="1030" EndNode="1045">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">ttp://de.dbpedia.org/page/Friedrichshafen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Mention" StartNode="1358" EndNode="1373">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">ttp://de.dbpedia.org/page/Friedrichshafen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Mention" StartNode="769" EndNode="784">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Friedrichshafen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Mention" StartNode="187" EndNode="197">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin_Recycling_Volleys</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="290" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Mention" StartNode="405" EndNode="432">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Max-Schmeling-Halle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Mention" StartNode="582" EndNode="596">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Mention" StartNode="684" EndNode="699">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">ttp://de.dbpedia.org/page/Friedrichshafen</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="1" Type="Mention" StartNode="187" EndNode="197">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Berlin_Recycling_Volleys</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Mention" StartNode="290" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Event</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="405" EndNode="432">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Max-Schmeling-Halle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="582" EndNode="596">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="684" EndNode="699">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Friedrichshafen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="1030" EndNode="1045">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Friedrichshafen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Mention" StartNode="1358" EndNode="1373">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Friedrichshafen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="769" EndNode="784">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/VfB_Friedrichshafen</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

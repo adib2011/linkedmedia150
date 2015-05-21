@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/2.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Alles auf Anfang",
+heißt es im <Node id="32"/>Berliner Landgericht<Node id="52"/>
+ beim Prozess
+    um den Tod von <Node id="86"/>Jonny K<Node id="93"/>.
+ Der muss neu aufgerollt werden.
+ Eine unbedachte
+    Äußerung eines Schöffen,
+ ein Interview in einer Zeitung,
+das brachte das Verfahren zu Fall.
+ Doch es soll schnell wieder
+     los gehen, immerhin.
+ Für Freund und Schwester
+     des getöteten <Node id="342"/>Jonny K<Node id="349"/>.
+ ein nervenaufreibender Prozesstag.
+ Nur noch 2 der 6 Angeklagten
+ bleiben in Untersuchungshaft.
+ Und der Prozess beginnt von vorn,
+     beschloss das Gericht.
+ Das Urteil wurde
+     noch nicht gesprochen.
+ Ich glaube immer noch
+   an die Staatsanwaltschaft
+ und ich glaube immer noch
+        an die Richter.
+ Ich bin Buddhistin.
+Alles kommt wieder auf einen zurück.
+ Ob es heute ist, in einer Woche,
+        in einem Monat:
+ Jeder kriegt das, was er verdient!
+ D.h., Sie können warten?
+ Ja, die Zeit ist auf meiner Seite.
+Was kann noch Schlimmeres passieren?
+ Mein Bruder ist tot!
+ Scheinbare Gelassenheit,
+wenngleich der Gerichtsbeschluss
+ offenkundig belastend ist
+  für die Familie des Opfers.
+ Indes sind sich
+ alle Prozessbeteiligten einig.
+ Um einen fairen Prozess
+       zu gewährleisten,
+ braucht es einen neuen Anlauf.
+ Wohl nur Zufall, dass sich
+  der Hauptangeklagte <Node id="1230"/>Onur U<Node id="1236"/>.
+ hinter der Zeitung versteckt,
+die den Stein ins Rollen brachte.
+ Mit ihrem Bericht über den angeblich                                
+    mutigsten Schöffen Berlins,
+ den Prozessbeteiligte
+    aber ganz anders sehen:
+ Er ist sicherlich nicht
+der schlaueste Schöffe Berlins.
+ Laut BZ äußerte sich der Schöffe
+ u.a. abfällig über
+    "motzende" Verteidiger.
+ Zitat: "Die wollen halt
+  den Prozess kaputt machen".
+ Der Laienrichter - befangen?
+ Der Schöffe hat sich so geäußert,
+  dass es eine Kontaktaufnahme
+ seitens der BZ gab.
+ Dass er sich dort
+aber nicht wertend geäußert habe.
+ Die Äußerungen würden nicht stimmen,                                
+   die ihm zugeschrieben werden.
+ Ich habe mit der BZ telefoniert.
+    Dort hat man mir gesagt,
+ es würde eine eidesstattliche
+     Erklärung abgegeben,
+ deren Inhalt sei,
+      dass die Äußerungen
+ zutreffend wiedergegeben seien.
+ Schon zuvor hatte der Schöffe an
+seiner Objektivität zweifeln lassen,
+ als er, hier rechts im Bild,
+ einen Zeugen recht schroff
+       zur Rede stellte.
+ Wenn er in den Raum stellt, dass ein                                
+Zeuge, der sich nicht erinnern kann,
+ entweder feige ist
+oder das Gericht "verarschen"  will,
+ dann lässt diese Ausdrucksweise
+          befürchten,
+ dass sich dieser Schöffe schon ein
+Bild von Tat und Täter gemacht hat,
+ was gefestigt ist.
+ Der Laienrichter, also "Vorurteils"-                                
+ verdächtig, am Mittag auch zynisch
+ vor laufender Kamera:
+ Ein faires Verfahren
+     sei kaum mehr möglich,
+ so einhellig die Prozessbeteiligten.
+ 3 Angeklagte wurden noch am Mittag
+    von der U-Haft verschont,
+ weil sie die Verzögerung
+   nicht zu vertreten haben.
+ Schon am Donnerstag
+ soll es einen Neustart geben.
+ Mit einem neuen Schöffen.
+ <Node id="3004"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="2" Type="Mention" StartNode="32" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.lang.String">http://de.dbpedia.org/page/Landgericht_Berlin</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="3" Type="Mention" StartNode="32" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">seeAlso</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Landgericht_Berlin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="86" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="342" EndNode="349">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Mention" StartNode="1230" EndNode="1236">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="7" Type="Mention" StartNode="32" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isDefinedBy</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Landgericht_Berlin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Mention" StartNode="86" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="342" EndNode="349">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Mention" StartNode="1230" EndNode="1236">
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3004">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

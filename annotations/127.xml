@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adrian/linkedtvtest/subtitles/127.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>in dessen Wohnung in <Node id="21"/>Spandau<Node id="28"/>
+       getötet zu haben.
+ Auch er soll von ihm
+    missbraucht worden sein.
+ Die <Node id="110"/>Staatsanwaltschaft<Node id="128"/>
+   geht von Selbstjustiz aus.
+ Knapp ein Jahr nach der Entlassung
+ des <Node id="200"/>Star-Architekten
+      Meinhard von Gerkan<Node id="242"/>
+ kehrten führende Mitarbeiter
+aus seinem Büro an den <Node id="296"/>BER<Node id="299"/> zurück.
+ <Node id="309"/>Flughafenchef Hartmut Mehdorn<Node id="338"/>
+   holte sie wieder an Bord.
+ Eben der <Node id="378"/>Hartmut Mehdorn<Node id="393"/> zauberte
+ einen Rettungsplan aus dem Hut:
+ Das "<Node id="442"/>SPRINT-Programm<Node id="457"/>".
+ Doch Journalisten, die heute
+   darüber berichten wollten,
+ bekamen eine Absage:
+ Kein eigenes Bild,
+    keine kritischen Fragen.
+ Stattdessen der Verweis
+       auf einen PR-Film
+ auf der <Node id="650"/>Internetseite
+  der Flughafen-Gesellschaft<Node id="692"/>.
+ Der Flughafen im Sprint.
+ So will es der neue <Node id="741"/>Chef Mehdorn<Node id="753"/>,
+damit der <Node id="765"/>BER<Node id="768"/> endlich eröffnen kann.
+ 30 Experten sollen sich täglich in
+einer eigenen Zentrale im Terminal
+ zusammensetzen, Probleme erkennen
+       und Probleme lösen.
+ So kündigte es <Node id="941"/>Mehdorn<Node id="948"/> nach der
+Aufsichtsratssitzung vor 3 Wochen an
+ Und er versprach dabei:
+ Wir werden Kontakt
+     mit der Presse halten.
+ Darüber informieren wir Sie noch,
+       wie wir das machen.
+ Wir haben nichts zu verstecken,
+offene Jacke. Jeder kann gucken.
+ Wir werden das intensiv abarbeiten.
+ Ich bin guter Dinge, dass wir
+  da gut vorankommen werden.
+ Gestern nun hat <Node id="1310"/>Mehdorn<Node id="1317"/> seinen
+<Node id="1325"/>Sprint-Campus<Node id="1338"/> im Terminal eröffnet.
+ In einem großen Büro
+      mitten im <Node id="1399"/>Hauptpier<Node id="1408"/>.
+ Die Presse aber
+  wollte er nicht dabei haben.
+ Wir hätten Ihnen gerne
+ über den Start des Beschleunigungs-
+    Programms Sprint berichtet.
+ Doch als <Node id="1561"/>Mehdorn<Node id="1568"/> die 30 Experten
+          im Terminal
+ gestern zum ersten Mal versammelte,
+ war die Presse ausdrücklich
+       nicht erwünscht.
+ Unsere Interviewanfragen
+      an den Flughafenchef
+ prallen seit Wochen an
+ der Flughafengesellschaft ab.
+ Das letzte Mal drehen im Terminal
+     durften wir im <Node id="1860"/>Februar<Node id="1867"/>.
+ Seitdem bekamen wir
+     keine Erlaubnis mehr.
+ Stattdessen versucht
+die Flughafengesellschaft offenbar,
+ die Berichterstattung
+ selbst in die Hand zu nehmen.
+ Heute Vormittag schickte sie
+ ein professionell produziertes
+   Video in die Redaktionen.
+ Voll des Lobes über <Node id="2141"/>Mehdorn<Node id="2148"/>
+  und seine Sprint-Offensive:
+ Das ist der Ort, wo alle wichtigen
+  Entscheidung getroffen werden.
+ Gemeinsam mit seinem Team
+       eröffnet <Node id="2291"/>Mehdorn<Node id="2298"/>
+ das Projekt Management-Office.
+ Der <Node id="2336"/>Senat<Node id="2341"/> wollte diese neue Art
+ der Pressearbeit am Flughafen
+ nicht kommentieren.
+ Im Abgeordnetenhaus aber
+        stieß das Video
+ nicht nur bei der Opposition
+  auf Befremden bis Empörung:
+ Das zeigt: Transparenz ist nicht
+ das, was <Node id="2570"/>Herr Mehdorn<Node id="2582"/> möchte.
+ Die "Black Box" BER
+       existiert weiter.
+ Man lässt keine
+     Berichterstattung zu.
+ Sondern setzt selber Filme auf.
+ Berichterstattung ist Sache
+der Reporter, nicht des Flughafens.
+ <Node id="2780"/>Herr Mehdorn<Node id="2792"/> ist
+  sicherlich sehr beschäftigt.
+ Aber zu seinem Aufgaben gehört auch,
+ den Flughafen nach außen
+gegenüber der Presse zu vertreten.
+ Auch gegenüber
+     kritischen Nachfragen.
+ Da ist ein Video
+  sicher nicht der beste Weg.
+ Die Transparenz ist <Node id="3040"/>Hartmut Mehdorn<Node id="3055"/>
+        der Öffentlichkeit,
+ <Node id="3085"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3085">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-2">
+<Annotation Id="32" Type="Mention" StartNode="21" EndNode="28">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Spandau</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="Mention" StartNode="110" EndNode="128">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Staatsanwaltschaft_(Deutschland)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="130" Type="Mention" StartNode="200" EndNode="242">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Meinhard_von_Gerkan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Mention" StartNode="296" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/BER</Value>
+</Feature>
+</Annotation>
+<Annotation Id="163" Type="Mention" StartNode="2570" EndNode="2582">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="Mention" StartNode="442" EndNode="457">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="133" Type="Mention" StartNode="650" EndNode="692">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="102" Type="Mention" StartNode="765" EndNode="768">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/BER</Value>
+</Feature>
+</Annotation>
+<Annotation Id="198" Type="Mention" StartNode="309" EndNode="338">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="Mention" StartNode="1325" EndNode="1338">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="Mention" StartNode="1399" EndNode="1408">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="168" Type="Mention" StartNode="741" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="Mention" StartNode="1860" EndNode="1867">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Februar</Value>
+</Feature>
+</Annotation>
+<Annotation Id="138" Type="Mention" StartNode="941" EndNode="948">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="107" Type="Mention" StartNode="2336" EndNode="2341">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Senat</Value>
+</Feature>
+</Annotation>
+<Annotation Id="139" Type="Mention" StartNode="1310" EndNode="1317">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="140" Type="Mention" StartNode="1561" EndNode="1568">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="141" Type="Mention" StartNode="2141" EndNode="2148">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="142" Type="Mention" StartNode="2291" EndNode="2298">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="176" Type="Mention" StartNode="378" EndNode="393">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="153" Type="Mention" StartNode="3040" EndNode="3055">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="158" Type="Mention" StartNode="2780" EndNode="2792">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="ann-1">
+<Annotation Id="1" Type="Mention" StartNode="21" EndNode="28">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Spandau</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Mention" StartNode="110" EndNode="128">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Staatsanwaltschaft_(Deutschland)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Mention" StartNode="200" EndNode="242">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Meinhard_von_Gerkan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="Mention" StartNode="2570" EndNode="2582">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Mention" StartNode="296" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/BER</Value>
+</Feature>
+</Annotation>
+<Annotation Id="132" Type="Mention" StartNode="2780" EndNode="2792">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Mention" StartNode="765" EndNode="768">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/BER</Value>
+</Feature>
+</Annotation>
+<Annotation Id="134" Type="Mention" StartNode="3040" EndNode="3055">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Mention" StartNode="309" EndNode="338">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Mention" StartNode="378" EndNode="393">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Mention" StartNode="442" EndNode="457">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Mention" StartNode="741" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Mention" StartNode="650" EndNode="692">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Mention" StartNode="1310" EndNode="1317">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Mention" StartNode="1325" EndNode="1338">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Mention" StartNode="1399" EndNode="1408">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Location</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Mention" StartNode="941" EndNode="948">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Mention" StartNode="1561" EndNode="1568">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Mention" StartNode="2141" EndNode="2148">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Mention" StartNode="2291" EndNode="2298">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Person</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Hartmut_Mehdorn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Mention" StartNode="1860" EndNode="1867">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Misc</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Februar</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Mention" StartNode="2336" EndNode="2341">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze#Organisation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ontology</Name>
+  <Value className="java.lang.String">http://semanticlab.net/ontology/recognyze</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hasURI</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.String">http://de.dbpedia.org/page/Senat</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
