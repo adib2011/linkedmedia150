@@ -1,2 +1,2 @@
 Only 149 documents out of 150 have annotations.
-Document 83 has no annotations. 
+Document 83 has no annotations, as there are no entities from the 6 main categories, and the users chose not to highlight anything in the Misc category.
